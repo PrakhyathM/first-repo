@@ -1,3 +1,4 @@
 first-repo
 ==========
-print 'hello world'
+Hello world ... :)
+    
